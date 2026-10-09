@@ -1,2 +1,1 @@
-# newpy
 calculator project
